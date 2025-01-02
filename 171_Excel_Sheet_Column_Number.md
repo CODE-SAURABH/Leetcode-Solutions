@@ -10,3 +10,4 @@ class Solution:
             # Calculate the value of each character and add to columnNumber
             columnNumber = columnNumber * 26 + (ord(char) - ord('A') + 1)
         return columnNumber
+Time Complexity ois O(n)
