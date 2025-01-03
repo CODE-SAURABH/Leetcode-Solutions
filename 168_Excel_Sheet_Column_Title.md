@@ -15,3 +15,5 @@ class Solution:
         
         # Reverse the result since we calculate from least significant to most significant
         return ''.join(reversed(result))
+
+# Time  Complexity is O(n)
