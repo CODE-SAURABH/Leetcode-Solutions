@@ -12,6 +12,4 @@ class Solution:
 
 
 
-# Optimize Method
-
-```python
+```
