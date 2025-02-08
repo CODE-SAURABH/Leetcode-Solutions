@@ -10,7 +10,7 @@ class Solution:
             if i not in res:
                 res.append(i)
         return res
-
+```
 
 
 # Optimize Method
@@ -44,3 +44,4 @@ class Solution:
         result = []
         backtrack(0)
         return result
+```
